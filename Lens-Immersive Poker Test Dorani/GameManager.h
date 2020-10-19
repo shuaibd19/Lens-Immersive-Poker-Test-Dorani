@@ -119,6 +119,9 @@ public:
 	/// <returns>array of int's</returns>
 	int* counter(Player player);
 
+	/// <summary>
+	/// decides the winner of the game based on points
+	/// </summary>
 	void winner();
 
 private:
