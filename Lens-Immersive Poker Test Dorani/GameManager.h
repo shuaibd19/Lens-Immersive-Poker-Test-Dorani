@@ -108,7 +108,7 @@ public:
 	/// this method only evaluates a single player's hand
 	/// this will be useful when allocating threads specific taska
 	/// </summary>
-	/// <param name="player"></param>
+	/// <param name="int"></param>
 	void evaluateSingleHand(int i);
 
 	/// <summary>
